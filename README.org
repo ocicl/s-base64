@@ -1,0 +1,9 @@
+* s-base64
+
+A Common Lisp implementation of Base64 Encoding/Decoding
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/svenvc/s-base64.git |
+| commit  | ed473e2                                    |
+| systems | s-base64                                   |
+|---------+--------------------------------------------|
